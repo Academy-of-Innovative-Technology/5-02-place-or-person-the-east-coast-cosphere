@@ -1,37 +1,44 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>TEMPLATE: Country / Person Profiler</title>
+<!doctype html>
+<html data-bs-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>TEMPLATE: Country / Person Profiler</title>
 	
+    <link href="src/css/style.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
-</head>
+  
+  </head>
 
-<body>
-	<div class="container">
-		<h1> TITLE </h1>
+  <body class="p-5">
+    <div class="container-sm">
+      <h1>European Countries</h1>
+      
+      <hr />
+      <br />
 
-		<hr><br>
+      <div class="row" id="search-bar">
+        <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+          <input
+            type="text"
+            class="form-control input-lg"
+            id="country"
+            placeholder="Search For .???"
+          />
+        </div>
 
-		<div class="row" id="search-bar">
-			<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-				<input type="text" class="form-control input-lg " id="country" placeholder="Search For .???">
-			</div>
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+          <button type="button" class="btn btn-info btn-lg">
+            <span class="glyphicon glyphicon-search" aria-hidden="true">Search</span>
+          </button>
+        </div>
 
-			<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-				<button type="button" class="btn btn-info btn-lg">
-					<span class="glyphicon glyphicon-search" aria-hidden="true">
-					</span>
-				</button>
-			</div>
+        <!-- CREATE TEMPLATE FOR PROFILE -->
+      </div>
+    </div>
 
-			<!-- CREATE TEMPLATE FOR PROFILE -->
-
-		</div>
-	</div>
-	
-</body>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="src/js/script.js"></script>
+  </body>
 </html>
