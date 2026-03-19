@@ -1,18 +1,38 @@
 {
-    "results": [
-        {
-            "name": "Romania",
-            "official_name": "Romania",
-            "language": ["Romanian"],
-            "demonym": "Romanian",
-            "flag_picture": "N/A",
-            "foundation": "January 24th, 1859",
-            "continent": ["Europe"],
-            "government_type": "Semi-presidential Representative Republic",
-            "population": 19000000,
-            "area_km_square": 238397,
-            "fun_fact": "",
-            "pictures": ["https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/D51D/production/_133675545_bbcm_country_profile_romania_kosovo_171224.jpg"]
-        }
-    ]
+  "results": [
+    {
+      "name": "Romania",
+      "official_name": "Romania",
+      "language": ["Romanian"],
+      "demonym": "Romanian",
+      "flag_picture": "N/A",
+      "ISO_3166_A2": "RO",
+      "foundation": "January 24th, 1859",
+      "continent": ["Europe"],
+      "government_type": "Semi-presidential Representative Republic",
+      "population": 19000000,
+      "area_km_square": 238397,
+      "fun_fact": "Idk",
+      "pictures": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/D51D/production/_133675545_bbcm_country_profile_romania_kosovo_171224.jpg", "https://germanbackpacker.com/wp-content/uploads/2017/12/Backpacking-Romania7.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUodU8mIEeK49z2wdLaHXu6L223X6OhRGipg&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuOLq3nfY8zYuei8hVIdh9r5-hEWjbmWc0wg&s", "https://thesolofemaletravelernetwork.com/wp-content/uploads/2024/12/women-on-group-tour-in-Bucharest-Romania-scaled.jpg"
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "official_name": "Grand Duchy of Luxembourg",
+      "language": ["Luxembourgish", "French", "German"],
+      "demonym": "Luxembourger",
+      "flag_picture": "N/A",
+      "ISO_3166_A2": "LU",
+      "foundation": "June 9th, 1815",
+      "continent": ["Europe"],
+      "government_type": "Unitary Parliamentary Constitutional Monarchy",
+      "population": 660000,
+      "area_km_square": 2586,
+      "fun_fact": "Luxembourg is the only remaining sovereign Grand Duchy in the world.",
+      "pictures": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ville-Haute_vue_du_Fort_Verlorenkost_%28cropped%29.jpg/330px-Ville-Haute_vue_du_Fort_Verlorenkost_%28cropped%29.jpg", "https://media.cntraveller.com/photos/611bf6f7231ed5e8dfa34d10/16:9/w_2560%2Cc_limit/cms_09.jpg", "https://static.wixstatic.com/media/167538_977edcbf76574f319032610b56191d89~mv2.png/v1/fill/w_940,h_788,al_c,q_90/167538_977edcbf76574f319032610b56191d89~mv2.png", "https://factsinstitute.com/wp-content/uploads/2024/08/political-map-of-luxembourg.png", "https://thumbs.dreamstime.com/b/luxembourg-map-6265673.jpg", "https://www.gif-map.com/maps/europe/luxembourg/travel-map-of-luxembourg.gif"
+      ]
+    }
+  ]
 }
