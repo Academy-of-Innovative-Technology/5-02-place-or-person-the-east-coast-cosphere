@@ -2,16 +2,17 @@
     "results": [
         {
             "name": "Romania",
-            "population": 19000000,
-            "flag_picture": "",
-            "fun_fact": "",
-            "foundation": "January 24th, 1859",
-            "government_type": "semi-presidential representative republic",
             "official_name": "Romania",
-            "language": "Romanian",
-            "continent": "Europe",
+            "language": ["Romanian"],
+            "demonym": "Romanian",
+            "flag_picture": "N/A",
+            "foundation": "January 24th, 1859",
+            "continent": ["Europe"],
+            "government_type": "Semi-presidential Representative Republic",
+            "population": 19000000,
             "area_km_square": 238397,
-            "demonym": "Romanian"
+            "fun_fact": "",
+            "pictures": ["https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/D51D/production/_133675545_bbcm_country_profile_romania_kosovo_171224.jpg"]
         }
     ]
 }
