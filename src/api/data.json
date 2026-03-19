@@ -33,6 +33,23 @@
       "pictures": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ville-Haute_vue_du_Fort_Verlorenkost_%28cropped%29.jpg/330px-Ville-Haute_vue_du_Fort_Verlorenkost_%28cropped%29.jpg", "https://media.cntraveller.com/photos/611bf6f7231ed5e8dfa34d10/16:9/w_2560%2Cc_limit/cms_09.jpg", "https://static.wixstatic.com/media/167538_977edcbf76574f319032610b56191d89~mv2.png/v1/fill/w_940,h_788,al_c,q_90/167538_977edcbf76574f319032610b56191d89~mv2.png", "https://factsinstitute.com/wp-content/uploads/2024/08/political-map-of-luxembourg.png", "https://thumbs.dreamstime.com/b/luxembourg-map-6265673.jpg", "https://www.gif-map.com/maps/europe/luxembourg/travel-map-of-luxembourg.gif"
       ]
+    },
+    {
+      "name": "Liechtenstein",
+      "official_name": "Principality of Liechtenstein",
+      "language": ["German", "Swiss German"],
+      "demonym": "Liechtensteiner",
+      "flag_picture": "N/A",
+      "ISO_3166_A2": "LI",
+      "foundation": "January 23, 1719",
+      "continent": ["Europe"],
+      "government_type": "Constitutional Hereditary Monarchy",
+      "population": 40368,
+      "area_km_square": 160,
+      "fun_fact": "Known for being one of the world's only "doubly landlocked" nations. As the world’s leading manufacturer of false teeth, it produces over 20% of the global supply, while having no army, no airport, and the last European country to give women the vote.",
+      "pictures": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Ls-map.png", "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/bb/a6/df/liechtenstein-is-a-25km.jpg?w=700&h=700&s=1", "https://i0.wp.com/balabanovaallover.com/wp-content/uploads/2024/04/2023-11-25-12.39.18-1.jpg?ssl=1", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Ke5IswsqH7T52w3bpsS2P7I_v274msk-rA&s" 
+      ]
     }
   ]
 }
