@@ -30,6 +30,19 @@ function Load_Random_Country() {
     Load_Country(Data[Random_Country_Index].name);
 }
 
+let Supported_Countries_Datalist_DOM = document.querySelector("#Supported_Countries_Datalist");
+function Load_All_Supported_Countries_To_Datalist() {
+    if (!Array.isArray(Data) || Data.length == 0) {
+        return console.log("Error: Data does not exist or it's empty");
+    }
+    Supported_Countries_Datalist_DOM.innerHTML = "";
+
+    Data.forEach( (Country) => {
+        let HTML = `<option value="${Country.official_name}">${Country.official_name}</option>`;
+        Supported_Countries_Datalist_DOM.insertAdjacentHTML("beforeend", HTML);
+    })
+}
+
 async function getData() {
     try {
         let response = await fetch("src/api/data.json");
@@ -39,6 +52,7 @@ async function getData() {
         let parsed = await response.json();
         Data = parsed.results;
         console.log(Data);
+        Load_All_Supported_Countries_To_Datalist();
         Load_Random_Country();
     }
     catch (error) {
