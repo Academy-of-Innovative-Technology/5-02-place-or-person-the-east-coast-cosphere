@@ -33,6 +33,57 @@
       "pictures": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ville-Haute_vue_du_Fort_Verlorenkost_%28cropped%29.jpg/330px-Ville-Haute_vue_du_Fort_Verlorenkost_%28cropped%29.jpg", "https://media.cntraveller.com/photos/611bf6f7231ed5e8dfa34d10/16:9/w_2560%2Cc_limit/cms_09.jpg", "https://static.wixstatic.com/media/167538_977edcbf76574f319032610b56191d89~mv2.png/v1/fill/w_940,h_788,al_c,q_90/167538_977edcbf76574f319032610b56191d89~mv2.png", "https://factsinstitute.com/wp-content/uploads/2024/08/political-map-of-luxembourg.png", "https://thumbs.dreamstime.com/b/luxembourg-map-6265673.jpg", "https://www.gif-map.com/maps/europe/luxembourg/travel-map-of-luxembourg.gif"
       ]
+    },
+    {
+      "name": "San Marino",
+      "official_name": "Republic of San Marino",
+      "language": ["Italian"],
+      "demonym": "Sammarinese",
+      "flag_picture": "N/A",
+      "ISO_3166_A2": "SM",
+      "foundation": "September 3rd, 301",
+      "continent": ["Europe"],
+      "government_type": "Unitary Parliamentary Constitutional Republic",
+      "population": 34000,
+      "area_km_square": 61,
+      "fun_fact": "San Marino claims to be the oldest continuously existing republic in the world.",
+      "pictures": [
+        "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7349/production/_131331592_bbcm_san-marino_country_profile_061023.png", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfi_eyYI6Y_S_3K11ZbZyKH6KFyY3viS53Wg&s", "https://www.winetraveler.com/wp-content/uploads/2023/04/San-Marino-Itinerary-and-Best-Things-to-Do-1.jpg", "https://pohcdn.com/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/San-Marino.jpg", "https://cdn.britannica.com/08/4208-050-8FE9A5E2/city-San-Marino-slopes-republic-Mount-Titano.jpg"
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "official_name": "Principality of Liechtenstein",
+      "language": ["German"],
+      "demonym": "Liechtensteiner",
+      "flag_picture": "N/A",
+      "ISO_3166_A2": "LI",
+      "foundation": "January 23rd, 1719",
+      "continent": ["Europe"],
+      "government_type": "Unitary Parliamentary Constitutional Monarchy",
+      "population": 39000,
+      "area_km_square": 160,
+      "fun_fact": "Liechtenstein is one of the few countries with no airport.",
+      "pictures": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/60/Liechtenstein_-_Gemeinden_mit_Exklaven.png", "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/107F2/production/_128407576_bbcmp_liechtenstein.png", "https://www.jarniascyril.com/wp-content/uploads/2025/10/a414d41427bf5046968b389a8df8ab24.jpg", "https://lashworldtour.com/wp-content/uploads/2025/06/VAduz-1.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yuFW1QuyKkM6a92cNxhRbU7MHinJcwi9JA&s"
+      ]
+    },
+    {
+      "name": "Andorra",
+      "official_name": "Principality of Andorra",
+      "language": ["Catalan"],
+      "demonym": "Andorran",
+      "flag_picture": "N/A",
+      "ISO_3166_A2": "AD",
+      "foundation": "September 8th, 1278",
+      "continent": ["Europe"],
+      "government_type": "Unitary Parliamentary Co-Principality",
+      "population": 80000,
+      "area_km_square": 468,
+      "fun_fact": "Andorra has two co-princes: the President of France and the Bishop of Urgell.",
+      "pictures": [
+        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/D93D/production/_131331655_bbcm_andorra_country_profile_031023.png", "https://www.bekiaviajes.com/images/articulos/portada/83000/83479.jpg", "https://static.ffx.io/images/$zoom_0.188%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/b8e41147eab5c357b543afd6083f73e27ffd1c53", "https://cdn.prod.website-files.com/66c59bb6ecf662630baf4355/6790bd6e5925110e5543409f_que%20ver%20y%20hacer%20en%20andorra.jpg", "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/ec/70/f2.jpg"
+      ]
     }
   ]
 }
