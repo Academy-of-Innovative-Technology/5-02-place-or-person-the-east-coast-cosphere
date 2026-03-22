@@ -85,7 +85,7 @@ function Load_Country(name) {
 
     Pictures_DOM.innerHTML = "";
     Country_Info.pictures.forEach( (Picture_Link) => {
-        let HTML = `<img style="max-width: 250px;" src="${Picture_Link}">`;
+        let HTML = `<img style="max-width: 30%; object-fit: scale-down;" src="${Picture_Link}">`;
         Pictures_DOM.insertAdjacentHTML("beforeend", HTML);
     })
     
