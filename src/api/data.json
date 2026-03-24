@@ -19,7 +19,15 @@
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUodU8mIEeK49z2wdLaHXu6L223X6OhRGipg&s",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuOLq3nfY8zYuei8hVIdh9r5-hEWjbmWc0wg&s",
         "https://thesolofemaletravelernetwork.com/wp-content/uploads/2024/12/women-on-group-tour-in-Bucharest-Romania-scaled.jpg"
-      ]
+      ],
+      "Person": {
+        "Name": "HOLA",
+        "Picture": "LINKOMG",
+        "DOB:": "19565",
+        "Date_Of_Death": "HOY CONFIA",
+        "Biography": "LOREM LOREM LOREM LOREM LOREM",
+        "Occupation": "PROFETA"
+      }
     },
     {
       "name": "Luxembourg",
@@ -41,7 +49,15 @@
         "https://factsinstitute.com/wp-content/uploads/2024/08/political-map-of-luxembourg.png",
         "https://thumbs.dreamstime.com/b/luxembourg-map-6265673.jpg",
         "https://www.gif-map.com/maps/europe/luxembourg/travel-map-of-luxembourg.gif"
-      ]
+      ],
+      "Person": {
+        "Name": "HOLA",
+        "Picture": "LINKOMG",
+        "DOB:": "19565",
+        "Date_Of_Death": "HOY CONFIA",
+        "Biography": "LOREM LOREM LOREM LOREM LOREM",
+        "Occupation": "PROFETA"
+      }
     },
     {
       "name": "San Marino",
@@ -62,7 +78,15 @@
         "https://www.winetraveler.com/wp-content/uploads/2023/04/San-Marino-Itinerary-and-Best-Things-to-Do-1.jpg",
         "https://pohcdn.com/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/San-Marino.jpg",
         "https://cdn.britannica.com/08/4208-050-8FE9A5E2/city-San-Marino-slopes-republic-Mount-Titano.jpg"
-      ]
+      ],
+      "Person": {
+        "Name": "HOLA",
+        "Picture": "LINKOMG",
+        "DOB:": "19565",
+        "Date_Of_Death": "HOY CONFIA",
+        "Biography": "LOREM LOREM LOREM LOREM LOREM",
+        "Occupation": "PROFETA"
+      }
     },
     {
       "name": "Liechtenstein",
@@ -83,7 +107,15 @@
         "https://www.jarniascyril.com/wp-content/uploads/2025/10/a414d41427bf5046968b389a8df8ab24.jpg",
         "https://lashworldtour.com/wp-content/uploads/2025/06/VAduz-1.jpg",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yuFW1QuyKkM6a92cNxhRbU7MHinJcwi9JA&s"
-      ]
+      ],
+      "Person": {
+        "Name": "HOLA",
+        "Picture": "LINKOMG",
+        "DOB:": "19565",
+        "Date_Of_Death": "HOY CONFIA",
+        "Biography": "LOREM LOREM LOREM LOREM LOREM",
+        "Occupation": "PROFETA"
+      }
     },
     {
       "name": "Andorra",
@@ -104,7 +136,15 @@
         "https://static.ffx.io/images/$zoom_0.188%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/b8e41147eab5c357b543afd6083f73e27ffd1c53",
         "https://cdn.prod.website-files.com/66c59bb6ecf662630baf4355/6790bd6e5925110e5543409f_que%20ver%20y%20hacer%20en%20andorra.jpg",
         "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0f/ec/70/f2.jpg"
-      ]
+      ],
+      "Person": {
+        "Name": "HOLA",
+        "Picture": "LINKOMG",
+        "DOB:": "19565",
+        "Date_Of_Death": "HOY CONFIA",
+        "Biography": "LOREM LOREM LOREM LOREM LOREM",
+        "Occupation": "PROFETA"
+      }
     }
   ]
 }
