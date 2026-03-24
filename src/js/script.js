@@ -14,6 +14,7 @@ let Population_DOM = document.querySelector("#Population");
 let Area_DOM = document.querySelector("#Area");
 
 let Pictures_DOM = document.querySelector("#Pictures");
+let Person_DOM = document.querySelector("#Person");
 
 let Flag_DOM = document.querySelector("#Flag");
 
@@ -103,6 +104,20 @@ function Load_Country(name) {
         Pictures_DOM.insertAdjacentHTML("beforeend", HTML);
     })
     
+
+    if (Country_Info.Person == undefined || Country_Info.Person == []) {
+        Person_DOM.innerHTML == "";
+        return;
+    }
+    let HTML = `<h1 class="text-center text-decoration-underline">${Country_Info.Person.Name}</h1>
+            <img style="max-width: 50%;" src="${Country_Info.Person.Picture}">
+
+            <h2 class="text-center">${Country_Info.Person.Occupation}</h2>
+            <h3 class="text-center">${Country_Info.Person.DOB} - ${Country_Info.Person.Date_Of_Death}</h3>
+            <p>${Country_Info.Person.Biography}</p>`;
+    Person_DOM.innerHTML = HTML;
+
+
 }
 
 Input_DOM.addEventListener("keydown", (event) => {
