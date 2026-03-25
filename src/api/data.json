@@ -2,6 +2,7 @@
   "results": [
     {
       "name": "Romania",
+      "capital": "Bucharest",
       "official_name": "Romania",
       "language": ["Romanian"],
       "demonym": "Romanian",
@@ -31,6 +32,7 @@
     },
     {
       "name": "Luxembourg",
+      "capital": "Luxembourg City",
       "official_name": "Grand Duchy of Luxembourg",
       "language": ["Luxembourgish", "French", "German"],
       "demonym": "Luxembourger",
@@ -61,6 +63,7 @@
     },
     {
       "name": "San Marino",
+      "capital": "San Marino City",
       "official_name": "Republic of San Marino",
       "language": ["Italian"],
       "demonym": "Sammarinese",
@@ -90,6 +93,7 @@
     },
     {
       "name": "Liechtenstein",
+      "capital": "Vaduz",
       "official_name": "Principality of Liechtenstein",
       "language": ["German"],
       "demonym": "Liechtensteiner",
@@ -119,6 +123,7 @@
     },
     {
       "name": "Andorra",
+      "capital": "Andorra la Vella",
       "official_name": "Principality of Andorra",
       "language": ["Catalan"],
       "demonym": "Andorran",

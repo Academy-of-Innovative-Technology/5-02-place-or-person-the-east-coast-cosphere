@@ -4,6 +4,7 @@ let Submit_DOM = document.querySelector("#Submit");
 let Name_DOM = document.querySelector("#Name");
 
 let Official_Name_DOM = document.querySelector("#Official_Name");
+let Capital_DOM = document.querySelector("#Capital");
 let Language_DOM = document.querySelector("#Language");
 let Demonym_DOM = document.querySelector("#Demonym");
 let Foundation_DOM = document.querySelector("#Foundation");
@@ -77,6 +78,7 @@ function Load_Country(name) {
 
     Name_DOM.innerHTML = Country_Info.name;
     Official_Name_DOM.innerHTML = `Official Name: ${Country_Info.official_name}`;
+    Capital_DOM.innerHTML = `Capital: ${Country_Info.capital}`;
     Language_DOM.innerHTML = `Language/s: ${Country_Info.language}`; //
     Demonym_DOM.innerHTML = `Demonym: ${Country_Info.demonym}`;
     
