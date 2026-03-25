@@ -116,7 +116,7 @@ function Load_Country(name) {
             <h3 class="text-center">${Country_Info.Person.Date_Of_Birth} - ${Country_Info.Person.Date_Of_Death}</h3>
             <p>${Country_Info.Person.Biography}</p>`;
     Person_DOM.innerHTML = HTML;
-
+    console.log(Country_Info);
 
 }
 
