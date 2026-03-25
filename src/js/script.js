@@ -23,6 +23,9 @@ let Get_Flag_Link = (ISO_3166_A2) => {
     return `https://flagcdn.com/${ISO_3166_A2.toLowerCase()}.svg`;
 }
 
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
 
 let Data = [];
 
@@ -86,8 +89,8 @@ function Load_Country(name) {
     Government_Type_DOM.innerHTML = `Government Type: ${Country_Info.government_type}`;
 
     Continent_DOM.innerHTML = Country_Info.continent; //
-    Population_DOM.innerHTML = Country_Info.population;
-    Area_DOM.innerHTML = Country_Info.area_km_square;
+    Population_DOM.innerHTML = numberWithCommas(Country_Info.population);
+    Area_DOM.innerHTML = numberWithCommas(Country_Info.area_km_square);
 
     
 
