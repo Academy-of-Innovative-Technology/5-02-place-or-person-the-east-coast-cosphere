@@ -113,7 +113,7 @@ function Load_Country(name) {
             <img style="max-width: 50%;" src="${Country_Info.Person.Picture}">
 
             <h2 class="text-center">${Country_Info.Person.Occupation}</h2>
-            <h3 class="text-center">${Country_Info.Person.DOB} - ${Country_Info.Person.Date_Of_Death}</h3>
+            <h3 class="text-center">${Country_Info.Person.Date_Of_Birth} - ${Country_Info.Person.Date_Of_Death}</h3>
             <p>${Country_Info.Person.Biography}</p>`;
     Person_DOM.innerHTML = HTML;
 

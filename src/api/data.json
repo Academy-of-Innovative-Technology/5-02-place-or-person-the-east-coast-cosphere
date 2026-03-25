@@ -22,8 +22,8 @@
       ],
       "Person": {
         "Name": "Vlad III of Wallachia",
-        "Picture": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
-        "DOB:": "1431, Sighișoara, Romania",
+        "Picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vlad_Ţepeş%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg/500px-Vlad_Ţepeş%2C_the_Impaler%2C_Prince_of_Wallachia_%281456-1462%29_%28died_1477%29.jpg",
+        "Date_Of_Birth:": "1431, Sighișoara, Romania",
         "Date_Of_Death": "December 1476 (aged 45)",
         "Biography": "Known as Vlad the Impaler or Vlad Dracula, he was Prince of Wallachia between 1456 and 1462. He is considered one of the most important rulers in the history of Wallachia and a national hero of Romania. He was the second son of Prince Vlad II Dracul of Wallachia.",
         "Occupation": "He was Prince of Wallachia between 1456 and 1462."
@@ -53,7 +53,7 @@
       "Person": {
         "Name": "Xavier Bettel",
         "Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLuhY27pagUBkerXDvPXXOE6ekXFa3347lbFvNRxC1CU98k2eQuyeP7SY74fSh5GBuWOs97Q6sTMr-DL45isb3UX5YZbWsNJbKN0_Q5PS1MGBEHq16Bm4EGv_bvpQz6vG6w&s=10&ec=121584914",
-        "DOB:": "3 March 1973",
+        "Date_Of_Birth:": "3 March 1973",
         "Date_Of_Death": "Present",
         "Biography": "is a Luxembourgish lawyer and politician who serves as the deputy prime minister of Luxembourg and as the minister for Foreign Affairs since 2023. He served as the prime minister of Luxembourg from 2013 to 2023. He was a member of the Chamber of Deputies from 1999 to 2013 and mayor of Luxembourg City from 2011 to 2013.",
         "Occupation": "Prime Minister"
@@ -111,7 +111,7 @@
       "Person": {
         "Name": "Brigitte Haas",
         "Picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Brigitte_Haas_2025_%28cropped%29.jpg/250px-Brigitte_Haas_2025_%28cropped%29.jpg",
-        "DOB:": "27 December 1964",
+        "Date_Of_Birth:": "27 December 1964",
         "Date_Of_Death": "Present",
         "Biography": "a Liechtensteiner lawyer and politician who has served as the Prime Minister of Liechtenstein since 2025. She is the first woman to hold the office.",
         "Occupation": "Prime Minister"
@@ -139,8 +139,8 @@
       ],
       "Person": {
         "Name": "Rubén Doblas Gundersen",
-        "Picture": "https://ar.pinterest.com/matthewoxz/rubius-2009-jap%C3%B3n/",
-        "DOB:": "February 13, 1990 (age 36), Mijas, Spain",
+        "Picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_%28recorte%29.jpg/500px-El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_%28recorte%29.jpg",
+        "Date_Of_Birth:": "February 13, 1990",
         "Date_Of_Death": "Present",
         "Biography": "Rubén Doblas Gundersen, better known as El Rubius, is a Spanish YouTuber and streamer, considered one of the first and most prominent Spanish-speaking internet content creators. His content consists primarily of gameplay videos, sketches, parodies, montages, and vlogs.",
         "Occupation": "Content creator"
